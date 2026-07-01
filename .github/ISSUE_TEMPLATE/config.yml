@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://docs.shieldlabs.ai
+    about: Guides, API reference, and webhook setup.
+  - name: Product or account support
+    url: https://shieldlabs.ai
+    about: For questions about the hosted service or your account.
+  - name: Security report
+    url: https://github.com/ShieldLabs-ai/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately, not as public issues.
