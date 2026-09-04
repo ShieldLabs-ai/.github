@@ -1,6 +1,6 @@
 # ShieldLabs
 
-Identification and anonymity detection with an explainable risk score (0-100) and detailed signals, so you can assess traffic quality and act on abuse and fraud.
+ShieldLabs is fraud detection and prevention with traffic quality scoring. Stops multi-accounting, account sharing and account takeover.
 
 A JS snippet collects 100+ device and network signals. Shortly after a visit, ShieldLabs delivers a risk score and the named signals behind it over webhooks and the Server API. You read the score and its details; your code decides whether to allow, challenge, review, or block. You set the rules.
 
