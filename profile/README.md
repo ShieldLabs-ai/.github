@@ -1,8 +1,8 @@
 # ShieldLabs
 
-ShieldLabs is fraud detection and prevention with traffic quality scoring. Stops multi-accounting, account sharing and account takeover.
+ShieldLabs is fraud detection and prevention with enterprise-level functionality and no enterprise pricing. Find risky users under any masking, stop multi-accounting, account sharing and takeovers, and score your traffic quality.
 
-A JS snippet collects 100+ device and network signals. Shortly after a visit, ShieldLabs delivers a risk score and the named signals behind it over webhooks and the Server API. You read the score and its details; your code decides whether to allow, challenge, review, or block. You set the rules.
+A JS snippet collects 300+ device and network signals and cross-checks them, with 99.9% identification accuracy and 99.9% risk signal detection accuracy. Shortly after a visit, ShieldLabs delivers a risk score from 0 to 100 and the named risk signals behind it over webhooks and the API. Multi-accounting, account sharing, account takeover and impossible travel are detected out of the box, each at medium or high confidence, with bot and AI traffic detection alongside.
 
 ## Open-source SDKs
 
